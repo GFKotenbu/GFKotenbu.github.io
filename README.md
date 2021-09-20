@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 冰菓 第二期
 
-You can use the [editor on GitHub](https://github.com/GFKotenbu/GFKotenbu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### 序
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+又到了文化祭。  
+关谷学长离开至今已有一年。  
+经过这一年，学长由英雄变成了传说，而今年的文化祭依然盛大地举办了五天。  
+然而，在传说传得沸沸扬扬的校舍一角，我却想着：十年后，还有谁记得那位安静的斗士、温和的英雄？最后会不会只留下学长命名的这本《冰果》呢？  
+争执、牺牲，连学长当时的微笑，都将被冲向时间的另一头。  
+不，这样才好，无须记住，因为那绝不是英雄事迹。  
+一切都将不再主观，在悠长历史的远方化为古籍的一页。  
+而有朝一日，现在的我们也将成为未来某人手中古籍的一页吧。  
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GFKotenbu/GFKotenbu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+一九六八年十月十三日  
+郡山养子  
